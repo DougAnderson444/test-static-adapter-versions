@@ -2,7 +2,7 @@
 
 Repro for [https://github.com/sveltejs/kit/issues/4528](https://github.com/sveltejs/kit/issues/4528)
 
-This repro works. The Static adapter issue only seems to appear after sveltekit `1.0.0-next.326` or later (?)
+This repro works. The Static adapter issue only seems to appear on sveltekit `1.0.0-next.328` and later (?)
 
 Reproduce:
 
